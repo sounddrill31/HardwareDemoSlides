@@ -46,14 +46,62 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 
 ---
+layout: 'two-cols-header'
+---
 
 # AQI Monitor (Harshith)
 
+::right::
 Powered by an: 
 - esp8266
 - Battery
 - Battery Management System + Charging
 - Temperature Reading
+
+
+::left::
+
+![image](./assets/photo_1_2026-02-22_15-29-10.jpg)
+
+
+
+
+---
+layout: 'two-cols-header'
+---
+
+# Tank thing (Harshith)
+
+::right::
+Powered by an: 
+- esp8266
+- Battery
+- Battery Management System + Charging
+- Temperature Reading
+
+
+::left::
+
+![image](./assets/photo_2_2026-02-22_15-29-10.jpg)
+
+
+
+---
+layout: 'two-cols-header'
+---
+
+# Controller thing (Harshith)
+
+::right::
+Powered by an: 
+- esp8266
+- Battery
+- Battery Management System + Charging
+- Temperature Reading
+
+::left::
+
+![image](./assets/photo_3_2026-02-22_15-29-10.jpg)
 
 
 --- 
