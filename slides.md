@@ -73,12 +73,10 @@ layout: 'two-cols-header'
 # Tank thing (Harshith)
 
 ::right::
-Powered by an: 
-- esp8266
+More info: 
+- esp32-s3 with Camera Module
 - Battery
-- Battery Management System + Charging
-- Temperature Reading
-
+- FPV Enabled, uses continuous servo motors for differential steering
 
 ::left::
 
@@ -93,11 +91,10 @@ layout: 'two-cols-header'
 # Controller thing (Harshith)
 
 ::right::
-Powered by an: 
-- esp8266
-- Battery
-- Battery Management System + Charging
-- Temperature Reading
+More Info: 
+- esp32
+- PS2 Joystick modules
+- One-cell 18650
 
 ::left::
 
